@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**greicyitakura/greicyitakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ My name is Greicy,I'm a Software Engineer and Mobile student.I'm 32 and passionate about programming, who loves to write codes and Learning FullStack Development. ✨ 
 
 Here are some ideas to get you started:
 
