@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greicy Itakura</h1>
-<h3 align="center">✨I'm a Software Engineer and Mobile student and passionate about programming, who loves to write codes and Learning FullStack Development. ✨</h3>
+<h3 align="center">✨I'm a Software Engineer and Mobile student and passionate about programming, who loves to write codes and Learning Development. ✨</h3>
 
 - 🔭 I’m currently working on [Semana DevSuperior](https://github.com/greicyitakura/sds2-dsdeliver)
 
