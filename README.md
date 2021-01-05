@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Greicy Itakura</h1>
 <h3 align="center">✨I'm a Software Engineer and Mobile student and passionate about programming, who loves to write codes and Learning Development. ✨</h3>
 
-- 🔭 I’m currently working on [Semana DevSuperior](https://github.com/greicyitakura/sds2-dsdeliver)
+- 🔭 I’m currently studing on [Semana DevSuperior](https://github.com/greicyitakura/sds2-dsdeliver)
+- 🔭 I’m currently studing on [Digital House]
+- 🔭 I’m currently studing on [Unicid - Engenharia de software]
 
 - 🌱 I’m currently learning **everything I can absorb**
 
