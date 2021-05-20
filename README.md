@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently studing on [Digital House](https://github.com/greicyitakura/desafio01DH)
 
+- 🇧🇷  I'm trying building things with Java, Spring Framework at [@ClickBus](https://www.clickbus.com.br) <br>
+
 - 🌱 I’m currently learning **everything I can absorb**
 
 - 📫 How to reach me **itakuradev@gmail.com**
