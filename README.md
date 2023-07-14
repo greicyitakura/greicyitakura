@@ -1,6 +1,6 @@
 <h1 align="center">  Hi, I'm Greicy Itakura 👋
 
-### ✨I'm a Software Engineer student and passionate about programming, who loves to write codes and Learning Development. ✨
+### ✨I'm a Software Engineer and passionate about programming, who loves to write codes and Learning Development. ✨
 
 
 - 🤓  I'm trying building and improving new things with Java as backend developer at [@ClickBus](https://www.clickbus.com.br) 🚍💜<br>
